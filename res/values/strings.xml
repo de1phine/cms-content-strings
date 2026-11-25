@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="idsdk_something_went_wrong_title">Something went wrong again</string>
+    <string name="idsdk_something_went_wrong_title">Something went wrong</string>
     <string name="idsdk_try_again_subtitle">You can try again or check if you can prove your identity another way.</string>
     <string name="goBackTryAgainButton">Go back and try again</string>
     <string name="proveAnotherWaySecondaryButton">Check if you can prove your identity another way</string>
